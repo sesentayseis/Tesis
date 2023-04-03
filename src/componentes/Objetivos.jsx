@@ -22,7 +22,7 @@ const Objetivos = () => {
             </TrajetaItem2>
             <br />
           </div> 
-          <div className="col-lg-6">
+          <div className="col-lg-6" style={{display:"flex",alignItems:"center",justifyContent:"center"}}>
            <img src="https://cdn-icons-png.flaticon.com/512/6078/6078781.png" alt="" srcset="" data-aos="fade-up" data-aos-delay={400} style={{ width:"100%" /*filter: 'opacity(0.8)',backgroundColor: 'rgb(248,249,250)'*/}}/>
             
           </div>
@@ -32,9 +32,9 @@ const Objetivos = () => {
       <div className="py-vh-5 w-100 overflow-hidden" id="beneficios">
         <div className="container">
         <div className="row">
-          <div className="col-lg-6">
+          <div className="col-lg-6" style={{display:"flex",alignItems:"center",justifyContent:"center"}}>
           
-          <img src="https://cdn-icons-png.flaticon.com/512/3281/3281323.png" alt="" srcset="" data-aos="fade-up" data-aos-delay={400} style={{ width:"100%" /*filter: 'opacity(0.8)',backgroundColor: 'rgb(248,249,250)'*/}}/>
+          <img src="https://cdn-icons-png.flaticon.com/512/3281/3281323.png" alt="" srcset="" data-aos="fade-up" data-aos-delay={400} style={{width:"100%"/*  filter: 'opacity(0.8)',backgroundColor: 'rgb(248,249,250)'*/}}/>
             <br />
           </div> 
           <br />

@@ -52,18 +52,9 @@ function Navbar() {
             Beneficios
           </a>
         </li>
-        <li className="nav-item">
-          <a className="nav-link" href="#workwithus">
-            Work with us
-          </a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link" href="#testimonials">
-            Testimonials
-          </a>
-        </li>
+       
       </ul>
-      <a href="https://templatedeck.com" data-splitbee-event="Click Download" aria-label="Download this template" className="link-dark pb-1 link-fancy me-2">
+      <a href="#Contacto" data-splitbee-event="Click Download" aria-label="Download this template" className="link-dark pb-1 link-fancy me-2">
         CONTACTO <i class="fa-regular fa-comment-dots bi bi-download ms-1" width={16} height={16} fill="currentColor" viewBox="0 0 16 16"/>
       </a>
       

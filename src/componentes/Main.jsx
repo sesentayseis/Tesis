@@ -3,6 +3,8 @@ import Estructura1 from './Estructura1'
 import Intro from './Intro'
 import Objetivos from './Objetivos'
 import Top from './Top'
+import Contacto from './Contacto'
+import Videos from './Videos'
 
 function Main() {
   return (
@@ -47,6 +49,8 @@ function Main() {
 
             </Estructura1>
             <Objetivos/>
+            <Contacto/>
+            <Videos/>
         </main>
     </>
   )

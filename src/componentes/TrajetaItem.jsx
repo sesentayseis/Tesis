@@ -10,9 +10,9 @@ function TrajetaItem({clase,num,titulo,children,link}) {
                     
                 </h3>
                 {children}
-                <a href={link} className="link-fancy">
+               {/* <a href={link} className="link-fancy">
                     Saber más
-                </a>
+    </a>*/}
             </div>
             
         </>

@@ -24,26 +24,53 @@ function Intro() {
             <TrajetaItem
               clase=""
               num="01."
-              titulo="We rented this fancy startup office in an old factory building."              
+              titulo="¿Qué investigar?"              
               link="#"
             >
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus culpa, voluptatibus ex itaque, sapiente a consequatur inventore beatae, ipsam debitis omnis consequuntur iste asperiores. Similique quisquam debitis corrupti deserunt, dolor.</p>
+              <p>Se sugiere seleccionar un tema que sea relevante para el área de estudio y de interés personal, así como también considerar la disponibilidad de recursos y la factibilidad de la investigación.</p> 
+              
             </TrajetaItem>
             <TrajetaItem
               clase=" py-vh-4 pb-0"
               num="02."
-              titulo="We rented this fancy startup office in an old factory building."              
+              titulo="¿Por qué investigar?"              
               link="#"
             >
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus culpa, voluptatibus ex itaque, sapiente a consequatur inventore beatae, ipsam debitis omnis consequuntur iste asperiores. Similique quisquam debitis corrupti deserunt, dolor.</p>
+              <p>La investigación permite profundizar en el conocimiento sobre un tema específico, resolver problemas prácticos y contribuir al desarrollo del área de estudio.</p>
             </TrajetaItem>
             <TrajetaItem
               clase=" py-vh-6 pb-0"
               num="03."
-              titulo="We rented this fancy startup office in an old factory building."              
+              titulo="¿Para qué investigar?"              
               link="#"
             >
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus culpa, voluptatibus ex itaque, sapiente a consequatur inventore beatae, ipsam debitis omnis consequuntur iste asperiores. Similique quisquam debitis corrupti deserunt, dolor.</p>
+              <p>Los resultados de la investigación pueden tener diversas aplicaciones, tales como mejorar procesos, crear nuevos productos o servicios, generar conocimiento nuevo y aportar al desarrollo de la sociedad.</p>
+            </TrajetaItem>
+          </div>
+          <div className="row d-flex align-items-center">
+            <TrajetaItem
+              clase=""
+              num="04."
+              titulo="¿Qué se piensa encontrar?"              
+              link="#"
+            >
+              <p>El objetivo de la investigación debe ser claro y realista, y se espera encontrar información y conclusiones que permitan responder a las preguntas de investigación planteadas.</p>
+            </TrajetaItem>
+            <TrajetaItem
+              clase=" py-vh-4 pb-0"
+              num="05."
+              titulo="¿Cómo investigar?"              
+              link="#"
+            >
+              <p>Se pueden utilizar diferentes metodologías y técnicas de investigación, dependiendo del tipo de estudio y los objetivos específicos de la investigación. Es importante diseñar un plan de investigación adecuado y riguroso.</p>
+            </TrajetaItem>
+            <TrajetaItem
+              clase=" py-vh-6 pb-0"
+              num="06."
+              titulo="¿Con qué o cuándo investigar?"              
+              link="#"
+            >
+              <p>El proceso de investigación puede ser largo y laborioso, por lo que es importante planificar el tiempo y los recursos necesarios para llevarlo a cabo. Lo ideal es comenzar a investigar.</p>
             </TrajetaItem>
           </div>
         </div>
